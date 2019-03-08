@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Eggwatch Behavior Pack",
+        "name": "Eggwatch Behavior Pack",
+        "uuid": "40614ecd-2ec9-4bda-9ca6-cb1edec91d38",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Eggwatch Behavior Pack",
+            "type": "client_data",
+            "uuid": "7662fe30-ba6b-44c5-a5b3-49c70a03b1d9",
+            "version": [0, 0, 1]
+        }
+    ]
+}
